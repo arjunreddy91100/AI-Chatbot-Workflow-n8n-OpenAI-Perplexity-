@@ -24,3 +24,8 @@ This project is a lightweight n8n workflow that turns any incoming chat message 
 2. Configure your OpenAI and Perplexity credentials.
 3. Activate the workflow. 
 4. Send a chat message to the webhook to receive an AI-powered response.
+
+## Author
+Arjun Reddy
+Email: athumma@uwm.edu
+Phone: +1 (414) 539-8028
